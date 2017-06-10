@@ -12,7 +12,7 @@ You're going to need [`git`](https://git-scm.com/) to get the project, and [`nod
 
 1. Fork and clone the repo
 2. Run `yarn` to install dependencies
-3. Run `yarn run validate` to validate you've got everything working
+3. Run `yarn validate` to validate you've got everything working
 4. Create a branch for your PR
 
 ## Committing and Pushing changes
@@ -26,7 +26,7 @@ You can use `commitizen` to help you to follow [the convention][convention]
 Once you are ready to commit the changes, please use the below commands
 
 1. Run `git add <files to be comitted>` to stage changed files
-2. Run `yarn run commit` to start commitizen to commit those files
+2. Run `yarn commit` to start commitizen to commit those files
 
 ... and follow the instruction of the interactive prompt.
 

@@ -1,15 +1,43 @@
 {
   "name": "work-from-home",
-  "version": "1.0.0",
+  "description": "A simple tool to create work from home events on a specific date",
+  "version": "0.0.0-development",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "commit": "git-cz",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spirosikmd/work-from-home.git"
+  },
+  "author": "Spyros Ioakeimidis <spyrosikmd@gmail.com> (http://www.spyros.io/)",
+  "bugs": {
+    "url": "https://github.com/spirosikmd/work-from-home/issues"
+  },
+  "homepage": "https://github.com/spirosikmd/work-from-home#readme",
   "dependencies": {
     "chrono-node": "^1.3.3",
     "dateformat": "^2.0.0",
     "google-auth-library": "^0.10.0",
     "googleapis": "^19.0.0"
   },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  },
   "bin": {
     "work-from-home": "./cli.js"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "devDependencies": {
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0",
+    "semantic-release": "^6.3.6"
   }
 }
