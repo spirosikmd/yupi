@@ -18,6 +18,8 @@ npm i -g work-from-home
 
 ## Usage
 
+The first time, you will need to give google calendar access for the tool to create events.
+
 ### CLI
 
 ```bash
