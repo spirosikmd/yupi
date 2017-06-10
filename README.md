@@ -2,6 +2,9 @@
 
 A simple tool to create work from home events on a specific date!
 
+> Follow google apis [quickstart](https://developers.google.com/google-apps/calendar/quickstart/nodejs#step_1_turn_on_the_api_name)
+to create a project with calendar and google plus access, and generate `client_secret.json` file with credentials.
+
 ## Installation
 
 Install the package globally with
