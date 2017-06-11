@@ -12,7 +12,7 @@ You're going to need [`git`](https://git-scm.com/) to get the project, and [`nod
 
 1. Fork and clone the repo
 2. Run `yarn` to install dependencies
-3. Run `yarn validate` to validate you've got everything working
+3. Run `yarn test` to check you've got everything working
 4. Create a branch for your PR
 
 ## Committing and Pushing changes
