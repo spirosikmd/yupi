@@ -1,6 +1,7 @@
 # yupi
 
 [![CircleCI](https://circleci.com/gh/spirosikmd/yupi.svg?style=svg)](https://circleci.com/gh/spirosikmd/yupi)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/spirosikmd/yupi)
 
 A simple tool to create gmail events on a specific date!
 
