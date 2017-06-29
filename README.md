@@ -26,6 +26,19 @@ npm i -g yupi
 
 The first time, you will need to give google calendar access for the tool to create events.
 
+Create a configuration object for event data. For example:
+
+```json
+{
+  "summary": "Yupi Event - {{name}}",
+  "description": "{{name}} created a yupi event!"
+}
+```
+
+You can use template variables that will be interpolated. The available template variables are:
+
+- `name`: the authenticated person's first name
+
 ### CLI
 
 ```bash

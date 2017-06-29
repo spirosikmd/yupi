@@ -58,6 +58,6 @@
   },
   "yupi": {
     "summary": "Yupi Event - {{name}}",
-    "description": "{{name}} create a yupi event!"
+    "description": "{{name}} created a yupi event!"
   }
 }
