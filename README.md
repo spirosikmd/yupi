@@ -1,5 +1,7 @@
 # yupi
 
+[![CircleCI](https://circleci.com/gh/spirosikmd/yupi.svg?style=svg)](https://circleci.com/gh/spirosikmd/yupi)
+
 A simple tool to create gmail events on a specific date!
 
 > Follow google apis [quickstart](https://developers.google.com/google-apps/calendar/quickstart/nodejs#step_1_turn_on_the_api_name)
