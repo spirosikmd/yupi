@@ -1,1 +1,1 @@
-module.exports = require('./lib/workFromHome');
+module.exports = require('./lib/yupi');

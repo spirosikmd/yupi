@@ -43,7 +43,7 @@ precommit
 
 ## Help needed
 
-Please checkout [the issues](https://github.com/spirosikmd/work-from-home/issues)! Also, please watch the repo
+Please checkout [the issues](https://github.com/spirosikmd/yupi/issues)! Also, please watch the repo
 and respond to questions/bug reports/feature requests! Thanks!
 
 [egghead]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
